@@ -42,7 +42,7 @@ Para observar el resultado del flow01, sólo es necesario abrir la pestaña Debu
 
 Vista previa del resultado del flow01.
 
-SS
+![](https://github.com/AngelERF/Flow01/blob/main/Screenshot%20from%202022-09-02%2000-59-08.png)
 
 ## Créditos
 
