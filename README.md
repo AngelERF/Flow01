@@ -38,12 +38,12 @@ Para ejecutar el flow01, es necesario lo siguiente:
 
 Para observar el resultado del flow01, sólo es necesario abrir la pestaña Debug.
 
-##Resultados
+## Resultados
 
 Vista previa del resultado del flow01.
 
 SS
 
-##Créditos
+## Créditos
 
-Desarrollado por Ángel Rodríguez
+Desarrollado por Ángel Rodríguez.
